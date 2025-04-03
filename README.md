@@ -1,6 +1,6 @@
 # Rugpull-as-a-Service (RaaS)
 
-> **"Rug responsibly. Pull with pride."**
+> **RaaS Protocol "Rug responsibly. Pull with pride."**
 
 Welcome to the protocol no one asked for, but everyone participates in.
 
